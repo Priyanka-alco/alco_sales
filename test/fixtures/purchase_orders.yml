@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 1
+  sales_person_id: 1
+  preferred_contact: 1
+  status_id: 1
+  subscription_type: MyString
+  subscription_id: 1
+  status: false
+
+two:
+  customer_id: 1
+  sales_person_id: 1
+  preferred_contact: 1
+  status_id: 1
+  subscription_type: MyString
+  subscription_id: 1
+  status: false

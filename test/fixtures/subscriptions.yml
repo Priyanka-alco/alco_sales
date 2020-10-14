@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  discount_percentage: 1
+  contract_month_period: 1
+  min_quantity_per_order: 1
+  min_order_per_month: 1
+  status: false
+
+two:
+  category: MyString
+  discount_percentage: 1
+  contract_month_period: 1
+  min_quantity_per_order: 1
+  min_order_per_month: 1
+  status: false
